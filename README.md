@@ -30,6 +30,8 @@ List of 20 buildings with medium risk.
 
 The following pictures show examples of high risk building:
 
+![capture1](https://cloud.githubusercontent.com/assets/11237613/23368105/b18eb61c-fcda-11e6-8f91-769c22523aca.PNG)
+
 
 
 
