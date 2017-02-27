@@ -35,6 +35,11 @@ The following pictures show examples of high risk building:
 
 ![capture2](https://cloud.githubusercontent.com/assets/11237613/23368171/e7184e74-fcda-11e6-9dda-b3d8f8c2bcd0.PNG)
 
+###Spatial Analysis
+
+Clustering in Upper West Side, Harlem, and neighborhoods in Bronx and Queens
+
+
 
 
 
