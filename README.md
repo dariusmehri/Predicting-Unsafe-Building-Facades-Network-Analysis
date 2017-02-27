@@ -33,5 +33,8 @@ The following pictures show examples of high risk building:
 ![capture1](https://cloud.githubusercontent.com/assets/11237613/23368105/b18eb61c-fcda-11e6-8f91-769c22523aca.PNG)
 
 
+![capture2](https://cloud.githubusercontent.com/assets/11237613/23368171/e7184e74-fcda-11e6-9dda-b3d8f8c2bcd0.PNG)
+
+
 
 
