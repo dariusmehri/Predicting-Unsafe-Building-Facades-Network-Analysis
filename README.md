@@ -1,10 +1,10 @@
-###Research Question:
+### Research Question:
 
 Can we use a method to predict buildings with facades unsafe to the public?
 
 We are interested in identifying buildings dangerous to public but unknown to the DOB
 
-###Method:
+### Method:
 
 Social network analysis
 
@@ -18,11 +18,11 @@ Steps:
 
 4. Validate model using google maps.
 
-###Data:
+### Data:
 
 DOB compliance data, owners of buildings that are 6 floors or higher required to submit status of facade (safe, unsafe) every facade cycle from 2000 through the present.
 
-###Results:
+### Results:
 
 List of 30 buildings with high risk.
 
